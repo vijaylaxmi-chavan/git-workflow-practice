@@ -1,0 +1,2 @@
+This is my Git practice file.
+I am learning Git version control.
